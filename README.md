@@ -6,9 +6,9 @@
 - Then in text processing there are tokenization, part of speech tagging, stop word removal, stemming and lemmatization steps performed.
 - Feature Extraction
 
-->The raw data or a sequence of symbols cannot be fed directly to the algorithms themselves as most of them expect numerical feature vectors with a fixed size rather than the raw text documents with variable length.
+ ->The raw data or a sequence of symbols cannot be fed directly to the algorithms themselves as most of them expect numerical feature vectors with a fixed size rather than the raw text documents with variable length.
 
--> scikit-learn provides utilities for the most common ways to extract numerical features from text content, namely:
+ -> scikit-learn provides utilities for the most common ways to extract numerical features from text content, namely:
 
     - tokenizing strings and giving an integer id for each possible token, for instance by using white-spaces and punctuation as token separators.
 
@@ -16,6 +16,6 @@
 
     - normalizing and weighting with diminishing importance tokens that occur in the majority of samples / documents.
     
--> each individual token occurrence frequency (normalized or not) is treated as a feature.
+ -> each individual token occurrence frequency (normalized or not) is treated as a feature.
 
--> vectorization, the general process of turning a collection of text documents into numerical feature vectors.
+ -> vectorization, the general process of turning a collection of text documents into numerical feature vectors.
