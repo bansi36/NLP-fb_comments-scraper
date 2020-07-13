@@ -10,6 +10,6 @@
 
     - tokenizing strings and giving an integer id for each possible token, for instance by using white-spaces and punctuation as token separators.
 
-    counting the occurrences of tokens in each document.
+    - counting the occurrences of tokens in each document.
 
-    normalizing and weighting with diminishing importance tokens that occur in the majority of samples / documents.
+    - normalizing and weighting with diminishing importance tokens that occur in the majority of samples / documents.
