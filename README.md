@@ -19,6 +19,6 @@
     
 - each individual token occurrence frequency (normalized or not) is treated as a feature.
 
-- vectorization, the general process of turning a collection of text documents into numerical feature vectors.
+- vectorization is the general process of turning a collection of text documents into numerical feature vectors.
 - In order to re-weight the count features into floating point values suitable for usage by a classifier use the tf–idf vectorizer.
 - Tf means term-frequency while tf–idf means term-frequency times inverse document-frequency: tf-idf(t,d) = tf(t,d) x idf(t)
