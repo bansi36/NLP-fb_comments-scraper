@@ -13,3 +13,5 @@
     - counting the occurrences of tokens in each document.
 
     - normalizing and weighting with diminishing importance tokens that occur in the majority of samples / documents.
+--> each individual token occurrence frequency (normalized or not) is treated as a feature.
+--> vectorization, the general process of turning a collection of text documents into numerical feature vectors.
