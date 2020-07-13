@@ -4,7 +4,7 @@
 - run facebooksdata_scraper code
 - profile_data.json which is the output of the first code, convert it into the csv file using the json_to_csv_conv.py and get profile_data.csv file.
 - Then in text processing there are tokenization, part of speech tagging, stop word removal, stemming and lemmatization steps performed.
-- Feature Extraction
+Feature Extraction
 
  ->The raw data or a sequence of symbols cannot be fed directly to the algorithms themselves as most of them expect numerical feature vectors with a fixed size rather than the raw text documents with variable length.
 
