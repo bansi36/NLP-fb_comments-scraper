@@ -1,4 +1,4 @@
-# facebook-comments-scraper 
+# facebook-comments-scraper & Natural Language Processing
 - facebook comments scraping using bs4 or Beautifulsoup
 - the very first step is to specify your credentials and profile urls to the main scraper code which is faceboksdata_scraper
 - run facebooksdata_scraper code
